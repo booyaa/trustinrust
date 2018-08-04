@@ -2,7 +2,7 @@
 
 An OpenFaas function written in Rust.
 
-This was feature in a blog post I wrote: https://booyaa.wtf/2018/run-rust-in-openfaas/
+This was featured in a blog post I wrote: https://booyaa.wtf/2018/run-rust-in-openfaas/
 
 ## Usage
 
